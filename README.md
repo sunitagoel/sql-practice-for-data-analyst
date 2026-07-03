@@ -1,4 +1,4 @@
-SQL Practice for Data Analyst
+# SQL Practice for Data Analyst
 
 Hello! I'm **Sunita Goel**, an aspiring Data Analyst passionate about learning and solving real-world data problems.
 
